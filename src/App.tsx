@@ -115,7 +115,7 @@ export default function App() {
                     Tudo começou quando ela <br/>entendeu o que <span className="text-red-500 block mt-1">realmente estava errado.</span>
                   </h1>
                   <p className="text-neutral-400 text-sm sm:text-base leading-relaxed max-w-[90%] mx-auto">
-                    A culpa que você carrega não deveria estar aí. O Método Viare foi desenhado para te acolher emocionalmente e apoiar sua jornada de forma gentil, sem cobranças irreais.
+                    A culpa que você carrega não deveria estar aí. O Desafio 21 Dias foi desenhado para te acolher emocionalmente e apoiar sua jornada de forma gentil, sem cobranças irreais.
                   </p>
                 </div>
 
